@@ -4,3 +4,6 @@
 [submodule "ModbusRtu"]
 	path = ModbusRtu
 	url = https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino.git
+[submodule "SoftwareSerial"]
+	path = SoftwareSerial
+	url = https://github.com/PaulStoffregen/SoftwareSerial.git
