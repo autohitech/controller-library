@@ -1,3 +1,6 @@
 [submodule "SimpleTimer"]
 	path = SimpleTimer
 	url = https://github.com/schinken/SimpleTimer.git
+[submodule "ModbusRtu"]
+	path = ModbusRtu
+	url = https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino.git
